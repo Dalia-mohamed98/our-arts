@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ABCDEFGH.com.ourarts.fluxstore",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}

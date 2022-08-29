@@ -1,0 +1,521 @@
+
+Jul 01, 2019 22.03.08: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jul 06, 2019 13.36.34: Uncaught Error: Call to undefined method WC_Admin_Order::post_id() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:7
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order))
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2173, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(29): do_action('woocommerce-tha...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#6 /home1/ourartsc/public_ht
+
+Jul 07, 2019 17.29.19: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:114
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 07, 2019 19.07.11: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:114
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 09, 2019 12.29.28: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 09, 2019 13.04.44: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 09, 2019 13.04.57: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 09, 2019 13.05.08: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 09, 2019 13.51.42: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 09, 2019 13.52.03: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 09, 2019 13.52.22: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 10, 2019 18.48.48: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 10, 2019 23.40.05: Uncaught Error: Call to a member function get_items() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:115
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(15): getProductsJson(NULL)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-c
+
+Jul 11, 2019 16.33.01: Uncaught Error: Call to undefined method WC_Admin_Order::get_billing_address() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:28
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2173, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(31): do_action('woocommerce-tha...', Object(WC_Admin_Order), Array)
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Arra
+
+Jul 11, 2019 16.36.15: Uncaught Error: Call to undefined method WC_Admin_Order::get_billing_address() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:28
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2173, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(31): do_action('woocommerce-tha...', Object(WC_Admin_Order), Array)
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Arra
+
+Jul 11, 2019 16.45.17: Uncaught Error: Call to undefined method WC_Admin_Order::get_billing_address() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:28
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2173, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(31): do_action('woocommerce-tha...', Object(WC_Admin_Order), Array)
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Arra
+
+Jul 11, 2019 16.53.58: Uncaught Error: Call to undefined method WC_Admin_Order::get_billing_address() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:28
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2173, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(31): do_action('woocommerce-tha...', Object(WC_Admin_Order), Array)
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Arra
+
+Jul 11, 2019 17.32.51: Uncaught Error: Call to undefined method WC_Admin_Order::get_billing_shipping_address() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:28
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2178, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(31): do_action('woocommerce-tha...', Object(WC_Admin_Order), Array)
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83.
+
+Jul 11, 2019 17.36.55: Uncaught Error: Call to undefined method WC_Admin_Order::get_shipping_address() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:28
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2171, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(31): do_action('woocommerce-tha...', Object(WC_Admin_Order), Array)
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Arr
+
+Jul 11, 2019 17.52.43: Uncaught Error: Call to undefined method WC_Admin_Order::get_shipping_phone() in /home1/ourartsc/public_html/wp-content/plugins/getvoo/inc/create order.php:27
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wdm_send_order_to_ext(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Resource id #2173, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(31): do_action('woocommerce-tha...', Object(WC_Admin_Order), Array)
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array
+
+Jul 17, 2019 18.06.50: Uncaught Error: Call to a member function using_index_permalinks() on null in /home1/ourartsc/public_html/wp-includes/rest-api.php:358
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/rest-api.php(418): get_rest_url(NULL, '/contact-form-7...', 'json')
+#1 /home1/ourartsc/public_html/wp-content/plugins/contact-form-7/includes/controller.php(44): rest_url('contact-form-7/...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/contact-form-7/includes/controller.php(23): wpcf7_enqueue_scripts()
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(284): wpcf7_do_enqueue_scripts()
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#7 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(5
+
+Jul 17, 2019 18.06.50: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.06.56: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.07.04: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.07.17: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.07.17: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.07.33: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.07.38: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.07.48: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.08.04: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.08.48: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.08.58: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.09.03: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.09.39: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.10.09: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.10.29: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.10.50: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.11.05: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.11.29: Uncaught Error: Call to a member function using_index_permalinks() on null in /home1/ourartsc/public_html/wp-includes/rest-api.php:358
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/rest-api.php(418): get_rest_url(NULL, '/contact-form-7...', 'json')
+#1 /home1/ourartsc/public_html/wp-content/plugins/contact-form-7/includes/controller.php(44): rest_url('contact-form-7/...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/contact-form-7/includes/controller.php(23): wpcf7_enqueue_scripts()
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(284): wpcf7_do_enqueue_scripts()
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#7 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(5
+
+Jul 17, 2019 18.11.39: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.12.04: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.12.05: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.12.56: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.13.05: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.13.31: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.13.54: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.14.12: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.14.51: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.15.04: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.15.41: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar
+
+Jul 17, 2019 18.16.06: Uncaught Error: Call to undefined function WeDevs\ERP\CRM\wp_create_nonce() in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/class-subscription.php:139
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs\ERP\CRM\Subscription->wp_enqueue_scripts('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/inc/thankyoupage_customizer.php(8): do_action('wp_enqueue_scri...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/old_atfawry_woocomerce-master/index.php(58): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-settings.php(362): include_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourar

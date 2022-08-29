@@ -1,0 +1,51 @@
+
+Aug 16, 2019 00.55.31: Uncaught Error: Class 'Dokan_Template_Withdraw' not found in /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/dokan.php:407
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs_Dokan->init_classes('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(525): do_action('init')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Aug 16, 2019 01.02.29: Uncaught Error: Class 'Dokan_Template_Withdraw' not found in /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/dokan.php:407
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs_Dokan->init_classes('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(525): do_action('init')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Aug 16, 2019 01.02.32: Uncaught Error: Class 'Dokan_Template_Withdraw' not found in /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/dokan.php:407
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WeDevs_Dokan->init_classes('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(525): do_action('init')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Aug 16, 2019 01.07.50: Uncaught Error: Call to undefined function dokan_get_withdraw_count() in /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/includes/admin/class-admin.php:123
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Admin->admin_menu('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/includes/menu.php(154): do_action('admin_menu', '')
+#4 /home1/ourartsc/public_html/wp-admin/menu.php(309): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-admin/admin.php(152): require('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-admin/plugins.php(10): require_once('/home1/ourartsc...')
+#7 {main}
+  thrown

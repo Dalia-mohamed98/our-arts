@@ -1,0 +1,706 @@
+
+Sep 05, 2019 02.07.52: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 05, 2019 02.08.13: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 05, 2019 02.11.19: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 05, 2019 02.11.30: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 05, 2019 02.14.13: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 05, 2019 02.14.23: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 05, 2019 02.24.48: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_action('w
+
+Sep 05, 2019 02.25.31: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_action('w
+
+Sep 05, 2019 02.25.56: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_action('w
+
+Sep 05, 2019 02.26.16: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2768
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_action('w
+
+Sep 05, 2019 02.29.18: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2764
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_action('w
+
+Sep 05, 2019 02.29.43: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2764
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 05, 2019 02.29.59: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2764
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_action('w
+
+Sep 05, 2019 02.29.59: Uncaught Error: Call to undefined method WC_Checkout::get_text() in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2764
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/checkout/form-billing.php(39): woocommerce_form_field('billing_postcod...', Array, '12511')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(294): wc_get_template('checkout/form-b...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Checkout->checkout_form_billing('')
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wp-multi-step-checkout/includes/settings-array.php(292): do_acti
+
+Sep 06, 2019 14.21.54: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 08, 2019 13.18.05: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 11, 2019 17.40.32: Uncaught Error: Class 'WeDevs\ERP\CRM\Contact_Taxonomy' not found in /home1/ourartsc/public_html/wp-content/plugins/erp/modules/crm/includes/functions-customer.php:3865
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): erp_crm_add_tag_taxonomy('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(525): do_action('init')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-admin/admin-ajax.php(22): require_once('/home1/ourartsc...')
+#7 {main}
+  thrown
+
+Sep 12, 2019 20.27.14: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 13, 2019 12.25.11: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('update_expiring...', Array, 1568419200, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(156
+
+Sep 13, 2019 12.25.11: Uncaught Exception: User 'ourartsc_3bb' has exceeded the 'max_questions' resource (current value: 1) in /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/tareq1988/wp-eloquent/src/Eloquent/Database.php:138
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1705): WeDevs\ORM\Eloquent\Database->select('select count(*)...', Array, true)
+#1 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1690): Illuminate\Database\Query\Builder->runSelect()
+#2 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(2025): Illuminate\Database\Query\Builder->get(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1953): Illuminate\Database\Query\Builder->aggregate('count', Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/we
+
+Sep 13, 2019 12.25.11: Uncaught Exception: User 'ourartsc_3bb' has exceeded the 'max_questions' resource (current value: 1) in /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/tareq1988/wp-eloquent/src/Eloquent/Database.php:138
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1705): WeDevs\ORM\Eloquent\Database->select('select count(*)...', Array, true)
+#1 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1690): Illuminate\Database\Query\Builder->runSelect()
+#2 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(2025): Illuminate\Database\Query\Builder->get(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1953): Illuminate\Database\Query\Builder->aggregate('count', Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/we
+
+Sep 13, 2019 12.25.11: Uncaught Exception: User 'ourartsc_3bb' has exceeded the 'max_questions' resource (current value: 1) in /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/tareq1988/wp-eloquent/src/Eloquent/Database.php:138
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1705): WeDevs\ORM\Eloquent\Database->select('select count(*)...', Array, true)
+#1 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1690): Illuminate\Database\Query\Builder->runSelect()
+#2 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(2025): Illuminate\Database\Query\Builder->get(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/wedevs-project-manager/vendor/illuminate/database/Query/Builder.php(1953): Illuminate\Database\Query\Builder->aggregate('count', Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/we
+
+Sep 13, 2019 13.24.00: Uncaught Error: Call to a member function get_instance_option_key() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:2767
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::shipping_zone_methods_save_changes('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin-ajax.php(173): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown
+
+Sep 15, 2019 16.07.04: Uncaught Error: Call to undefined function wpnonce_url() in /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/templates/orders/listing.php:69
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/includes/functions.php(897): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/classes/template-orders.php(85): dokan_get_template_part('orders/listing')
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Template_Orders->order_main_content('')
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/templates/orders/orders.php(58): do_action('dokan_order_ins...')
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/includes/functions.php(897): include('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-content/plugins/dokan-lite/includes/class-s
+
+Sep 15, 2019 22.38.57: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 15, 2019 22.39.30: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 15, 2019 22.40.20: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 15, 2019 22.42.32: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 15, 2019 22.43.53: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 17, 2019 17.03.15: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 17, 2019 21.25.10: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10189)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10189, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.25.54: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10195)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10195, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.26.40: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10201)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10201, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.28.01: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10207)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10207, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.29.49: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10213)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10213, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.30.48: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10219)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10219, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.31.35: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10225)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10225, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.32.48: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10231)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10231, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.33.37: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10237)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10237, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 21.49.29: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10243)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10243, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 22.00.16: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10251)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10251, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 22.11.35: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10257)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10257, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 22.18.52: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10263)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10263, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 22.19.40: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10269)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10269, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 22.20.53: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10275)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10275, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 22.26.12: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10281)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10281, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 17, 2019 22.35.42: Uncaught Error: Call to undefined method WP_Post::get_total() in /home1/ourartsc/public_html/wp-content/plugins/yith-desktop-notifications-for-woocommerce/includes/class.yith-wcdn-desktop-notifications-types.php:63
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(288): YITH_WCDN_Desktop_Notifications_Types->yith_wcdn_order_processed(10294)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1121): do_action('woocommerce_che...', 10294, Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::checkout('')
+#6 /home1/ourartsc/public_html/wp-includes/class-wp-
+
+Sep 24, 2019 10.02.36: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 24, 2019 10.03.03: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 24, 2019 10.07.59: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 24, 2019 10.30.30: Uncaught GuzzleHttp\Exception\ConnectException: cURL error 6: getaddrinfo() thread failed to start
+ (see http://curl.haxx.se/libcurl/c/libcurl-errors.html) in /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): G
+
+Sep 27, 2019 23.39.23: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.02.31: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.02.58: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.04.07: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.13.23: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.13.59: Uncaught Error: Call to a member function get_sku() on array in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/templates/cart/cart-item-data.php:28
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3762): wc_get_template('cart/cart-item-...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php(110): wc_get_formatted_cart_item_data(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#6 /home1/ourartsc/public_html/wp-content/plugins/wooc
+
+Sep 28, 2019 18.18.10: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.19.46: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.21.08: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.22.59: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.25.15: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 18.27.20: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 28, 2019 20.22.44: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Sep 30, 2019 00.36.13: Uncaught Error: Call to a member function get_name() on array in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:219
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourar
+
+Sep 30, 2019 00.52.31: Uncaught Error: Cannot use object of type WP_User as array in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:182
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourartsc
+
+Sep 30, 2019 01.29.32: Uncaught Error: Call to a member function get_id() on integer in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:187
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourar
+
+Sep 30, 2019 01.29.54: Uncaught Error: Call to a member function get_id() on integer in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:187
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourar
+
+Sep 30, 2019 01.38.06: Uncaught Error: Call to a member function get_id() on integer in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:187
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourar
+
+Sep 30, 2019 01.40.53: Uncaught Error: Call to a member function get_id() on integer in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:187
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourar
+
+Sep 30, 2019 02.06.54: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown

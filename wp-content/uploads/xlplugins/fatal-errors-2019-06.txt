@@ -1,0 +1,344 @@
+
+Jun 13, 2019 17.40.36: Uncaught Error: Class 'Atum\Modules\ModuleManager' not found in /home1/ourartsc/public_html/wp-content/plugins/atum-stock-manager-for-woocommerce/classes/Inc/Main.php:221
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Atum\Inc\Main->load_modules('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(463): do_action('setup_theme')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Jun 23, 2019 13.14.16: Uncaught Error: Call to a member function get_items() on array in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:105
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(27): getProductsJson(Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...'
+
+Jun 23, 2019 13.16.18: Uncaught Error: Call to a member function get_items() on array in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:105
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(27): getProductsJson(Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...'
+
+Jun 23, 2019 13.21.34: Uncaught Error: Call to a member function get_items() on array in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:105
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(27): getProductsJson(Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...'
+
+Jun 23, 2019 13.22.35: Uncaught Error: Call to a member function get_items() on array in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:105
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(27): getProductsJson(Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...'
+
+Jun 23, 2019 13.24.55: Uncaught Error: Call to a member function get_items() on array in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:105
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(27): getProductsJson(Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...'
+
+Jun 23, 2019 13.36.21: Uncaught Error: Call to a member function get_items() on array in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:105
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(27): getProductsJson(Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...'
+
+Jun 24, 2019 12.18.24: Uncaught Error: Call to undefined method WC_Admin_Order::name() in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:103
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(28): getProductsJson(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): inc
+
+Jun 24, 2019 13.02.18: Uncaught Error: Call to undefined method WC_Admin_Order::get_name() in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:103
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(28): getProductsJson(Object(WC_Admin_Order), Array)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249):
+
+Jun 24, 2019 21.59.41: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2835)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2835)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.01.42: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2833)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2833)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.01.51: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2829)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2829)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.04.10: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2827)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2827)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.06.10: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2825)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2825)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.08.10: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2821)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2821)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.10.08: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2819)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2819)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.12.23: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2817)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2817)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.14.38: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2775)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2775)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.17.47: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2773)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2773)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.20.06: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2771)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2771)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.27.46: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2767)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2767)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.35.12: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2765)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2765)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.43.46: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2761)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2761)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.46.08: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2759)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2759)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.48.57: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2755)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2755)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.51.03: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2753)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2753)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.53.39: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2751)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2751)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 24, 2019 22.55.44: Uncaught Error: Call to a member function get_type() on boolean in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/data-stores/class-wc-admin-reports-coupons-data-store.php:362
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-admin/includes/class-wc-admin-reports-sync.php(435): WC_Admin_Reports_Coupons_Data_Store::sync_order_coupons(2749)
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Admin_Reports_Sync::orders_lookup_import_order(2749)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Action.php(22): do_action_ref_array('wc-admin_import...', Array)
+#5 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_Abstract_Que
+
+Jun 27, 2019 17.49.22: Uncaught Error: Call to undefined method WC_Order_Item_Product::get_sku() in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:121
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php(28): getProductsJson(Object(WC_Admin_Order))
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#3 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(54): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Object(WC_Admin_Order))
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): 
+
+Jun 29, 2019 21.55.19: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 29, 2019 22.09.51: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.25.14: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.25.43: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.25.48: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.25.52: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.27.53: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.28.55: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.36.24: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.44.33: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra
+
+Jun 30, 2019 00.44.51: Uncaught Error: Call to a member function get_payment_method() on null in /home1/ourartsc/public_html/wp-content/plugins/atfawry_woocomerce-master/inc/thankyoupage_customizer.php:14
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ash2osh_faw_woo_change_order_received_text('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters('\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', Array)
+#2 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php(107): apply_filters('woocommerce_tha...', '\xD8\xB4\xD9\x83\xD8\xB1\xD9\x8B\xD8\xA7 \xD9\x84\xD9\x83...', NULL)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Arra

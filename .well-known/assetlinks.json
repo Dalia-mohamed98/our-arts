@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.ourarts.fluxstore",
+            "sha256_cert_fingerprints": [
+                "95:94:cb:f5:43:c6:80:1c:90:46:5d:b8:fb:7b:ba:28:08:c3:b5:82:1f:0e:9e:21:04:61:0f:f3:c0:b0:db:d6"
+            ]
+        }
+    }
+]

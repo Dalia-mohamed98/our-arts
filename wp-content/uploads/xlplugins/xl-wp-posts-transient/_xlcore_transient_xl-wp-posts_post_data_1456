@@ -1,0 +1,218 @@
+a:2:{s:4:"time";i:1563647108;s:5:"value";O:7:"WP_Post":24:{s:2:"ID";i:1456;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2019-05-24 11:17:22";s:13:"post_date_gmt";s:19:"2019-05-24 09:17:22";s:12:"post_content";s:6500:"[ux_slider]
+
+[ux_banner height="600px" bg="983" bg_overlay="rgba(0, 0, 0, 0.02)" bg_pos="58% 63%"]
+
+[text_box width="70" width__sm="100" animate="flipInY" position_x="50" position_y="50"]
+
+[divider margin="3px"]
+
+<h1 class="h-large uppercase"><span style="font-size: 160%;"><strong>HUGE SALE</strong></span></h1>
+<h1 class="uppercase"><span style="font-size: 100%;">UP TO <strong>70% OFF</strong></span></h1>
+[divider]
+
+[button text="Shop men" color="white" style="outline" link="#"]
+
+[button text="Shop women" color="white" style="outline" link="#"]
+
+[button text="Shop all" color="white" style="outline" link="#"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="600px" bg="983" bg_overlay="rgba(0, 0, 0, 0.03)" bg_pos="72% 6%"]
+
+[text_box width="40" width__sm="85" animate="fadeInLeft" position_x="10" position_x__sm="50" position_y="50"]
+
+<h2 class="uppercase" data-animate="fadeInLeft" data-animated="true"><strong>Hot Summer Fashion</strong></h2>
+<h3><strong>From 19$</strong></h3>
+[divider]
+
+[button text="Shop now" color="white" style="outline"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="600px" bg="983" bg_overlay="rgba(0, 0, 0, 0.03)" bg_pos="57% 49%"]
+
+[text_box width="40" width__sm="84" animate="fadeInLeft" position_x="10" position_y="50" text_align="left"]
+
+<h2 class="uppercase" data-animate="fadeInLeft" data-animated="true"><strong>This is an awesome video banner</strong></h2>
+[divider align="left"]
+
+[button text="Shop Men" color="white" style="outline"]
+
+[button text="Shop Women" color="white" style="outline"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="600px" bg="983" bg_overlay="rgba(0, 0, 0, 0.05)" bg_pos="67% 70%"]
+
+[text_box width="40" width__sm="100" animate="fadeInLeft" position_x="90" position_x__sm="50" position_y="50" position_y__sm="50"]
+
+<h2 class="uppercase" data-animate="fadeInLeft" data-animated="true"><strong>Change this</strong></h2>
+<h2 class="uppercase"><strong>to Anything</strong></h2>
+<p class="lead">This can easily be edited in the page builder.</p>
+[button text="Browse Products" color="white" style="outline"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[row]
+
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg_color="rgb(174, 174, 174)" link="blog"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span class="uppercase">Our Blog</span></strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg_color="rgb(174, 174, 174)" link="http://localhost:8888/test/blog/"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span class="uppercase">Join our<br />
+<span style="font-size: 85%;">competition</span></span></strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_banner height="160px" bg_color="rgb(169, 169, 169)" link="about-us"]
+
+[text_box position_x="50" position_y="50"]
+
+<h2><strong><span class="uppercase">ABOUT US</span></strong></h2>
+[divider]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+[title style="center" text="المنتجات"]
+
+[ux_products width="full-width" col_spacing="normal" slider_nav_style="simple" auto_slide="4000" products="20" order="asc"]
+
+[title style="center" text="افضل الخصومات"]
+
+[ux_products col_spacing="normal" slider_nav_style="simple" auto_slide="4000" products="12" order="asc" show="onsale"]
+
+[title style="center" text="المنتجات المميزة"]
+
+[ux_products col_spacing="normal" slider_nav_style="simple" auto_slide="4000" cat="63" products="12"]
+
+[title style="center" text="فئاتنا"]
+
+[ux_product_categories style="overlay" columns="5" slider_nav_style="simple" number="20"]
+
+[gap height="40px"]
+
+[row col_style="divided"]
+
+[col span="4"]
+
+[featured_box img="8685" img_width="46" pos="center" title="الشحن مجانا على جميع الطلبات" margin="0px 0px 0px 0px" icon_border="2" icon_color="rgb(182, 182, 182)"]
+
+<p>احصل على شحن مجاني لجميع الطلبات التي تزيد عن 75 دولارًا وعوائد مجانية إلى مركز إرجاع البيع الخاص بنا!  ، وسوف تصل في خلال 24 ساعة .</p>
+
+[/featured_box]
+
+[/col]
+[col span="4"]
+
+[featured_box img="8686" img_width="46" pos="center" title="سهل التسوق والاختيار" margin="0px 0px 0px 0px" icon_border="2" icon_color="rgb(182, 182, 182)"]
+
+<p>يمكنك التصفح والاختيار بين كثير من البدائل المتاحة علي موقعنا واختيار الموزاييك والزجاج المعشق بالكميات التي تحتاجها</p>
+
+[/featured_box]
+
+[/col]
+[col span="4"]
+
+[featured_box img="8687" img_width="46" pos="center" title="حاسبة الخامات" margin="0px 0px 0px 0px" icon_border="2" icon_color="rgb(182, 182, 182)"]
+
+<p>يمكنك حساب الخامات التي تحتاجها من خلال الموقع لتتمكن من اختيار الكميات المناسبة التي تريدها </p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+[gap height="40px"]
+
+[ux_slider timer="2000"]
+
+[ux_banner height="300px" bg_color="rgb(128, 128, 128)" bg_overlay="rgba(255,255,255,.5)"]
+
+[text_box width="78" position_x="50" position_y="50"]
+
+[testimonial image_width="128" name="Lucy Anderson" company="Facebook" stars="3"]
+
+<p>PBR kogi VHS commodo, single-origin coffee selvage kale chips. Fugiat try-hard ad aesthetic, tofu master cleanse typewriter tote bag accusamus sustainable ennui hella small batch cliche.</p>
+
+[/testimonial]
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="300px" bg="8011" parallax="1"]
+
+[text_box width="80" position_x="50" position_y="50"]
+
+[testimonial image_width="117" name="Rebecca Smith" company="Twitter" stars="3"]
+
+<p>PBR kogi VHS commodo, single-origin coffee selvage kale chips. Fugiat try-hard ad aesthetic, tofu master cleanse typewriter tote bag accusamus sustainable ennui hella small batch cliche.</p>
+
+[/testimonial]
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="300px" bg="8011" parallax="1"]
+
+[text_box width="80" position_x="50" position_y="50"]
+
+[testimonial image_width="131" name="Jenny Brooks" company="LinkedIn"]
+
+<p>PBR kogi VHS commodo, single-origin coffee selvage kale chips. Fugiat try-hard ad aesthetic, tofu master cleanse typewriter tote bag accusamus sustainable ennui hella small batch cliche.</p>
+
+[/testimonial]
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
+[title style="center" text="Latest News"]
+
+[blog_posts columns__sm="1" animate="fadeInLeft" posts="4" image_height="70%"]
+
+[ux_slider]
+
+
+[/ux_slider]";s:10:"post_title";s:29:"الصفحة الرئيسية";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"inherit";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:16:"1249-revision-v1";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-05-24 11:17:22";s:17:"post_modified_gmt";s:19:"2019-05-24 09:17:22";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:1249;s:4:"guid";s:49:"https://our-arts.com/2019/05/24/1249-revision-v1/";s:10:"menu_order";i:0;s:9:"post_type";s:8:"revision";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

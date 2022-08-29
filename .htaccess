@@ -1,0 +1,43 @@
+
+
+# BEGIN WordPress
+# التعليمات (الأسطر) بين "BEGIN WordPress" و "END WordPress"
+# تم إنشاؤها ديناميكيًا، ويجب تعديلها فقط من خلال مرشحات ووردبريس (WordPress Filters).
+# أي تغييرات على التعليمات بين هذه العلامات سيتم الكتابة فوقها.
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresByType image/jpg "access plus 1 year"
+	ExpiresByType image/jpeg "access plus 1 year"
+	ExpiresByType image/gif "access plus 1 year"
+	ExpiresByType image/png "access plus 1 year"
+	ExpiresByType text/css "access plus 1 month"
+	ExpiresByType application/pdf "access plus 1 month"
+	ExpiresByType text/javascript "access plus 1 month"
+	ExpiresByType text/html "access plus 5 minutes"
+	ExpiresByType image/x-icon "access plus 1 year"
+	ExpiresDefault "access plus 6 hours"
+</IfModule>
+
+
+				
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /ourarts/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /ourarts/index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN Enable Gzip Compression
+# التعليمات (الأسطر) بين `BEGIN Enable Gzip Compression` and `END Enable Gzip Compression`
+# تم إنشاؤها ديناميكيًا، ويجب تعديلها فقط من خلال مرشحات ووردبريس (WordPress Filters).
+# أي تغييرات على التعليمات بين هذه العلامات سيتم الكتابة فوقها.
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</IfModule>
+# END Enable Gzip Compression
+
+
+

@@ -1,0 +1,554 @@
+
+Oct 01, 2019 13.40.16: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 01, 2019 13.44.08: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 01, 2019 13.49.16: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 01, 2019 14.02.18: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 01, 2019 14.02.54: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 01, 2019 14.03.14: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 01, 2019 14.06.06: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 01, 2019 19.00.23: Uncaught Error: Call to a member function get_id() on string in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:195
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourart
+
+Oct 01, 2019 19.01.13: Uncaught Error: Call to a member function get_id() on string in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:195
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourart
+
+Oct 01, 2019 19.01.32: Uncaught Error: Call to a member function get_id() on string in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:195
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourart
+
+Oct 01, 2019 21.27.55: Uncaught Error: Cannot use object of type WC_Product_Simple as array in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3710
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php(245): wc_get_formatted_cart_item_data(Object(WC_Product_Simple))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#6 [internal function]: do_
+
+Oct 01, 2019 21.35.49: Uncaught Error: Call to a member function is_type() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3710
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php(245): wc_get_formatted_cart_item_data(6983)
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /home1
+
+Oct 01, 2019 21.40.46: Uncaught Error: Call to a member function is_type() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3710
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php(245): wc_get_formatted_cart_item_data(6983)
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home1/ourartsc...')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /home1
+
+Oct 06, 2019 14.51.48: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-admin/admin.php(169): do_action('admin_init')
+#4 /home1/ourartsc/public_html/wp-admin/tools.php(10): require_once('/home1/ourartsc...')
+#5 {main}
+  thrown
+
+Oct 06, 2019 16.02.24: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:187
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/our
+
+Oct 06, 2019 18.31.38: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:187
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/our
+
+Oct 06, 2019 18.34.06: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:187
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/our
+
+Oct 06, 2019 19.01.09: Uncaught Error: Call to a member function get_id() on boolean in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:190
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ourar
+
+Oct 06, 2019 19.28.40: Uncaught Error: Call to a member function get_image() on boolean in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:256
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ou
+
+Oct 06, 2019 19.29.24: Uncaught Error: Call to a member function get_image() on boolean in /home1/ourartsc/public_html/wp-content/themes/flatsome/woocommerce/cart/cart.php:256
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /home1/ourartsc/public_html/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home1/ourartsc/public_html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /home1/ou
+
+Oct 09, 2019 17.43.35: Uncaught Error: Class 'WC_Plugin_Updates' not found in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php:2028
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): wc_enable_wc_plugin_headers(Array)
+#1 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 /home1/ourartsc/public_html/wp-includes/functions.php(5589): apply_filters('extra_theme_hea...', Array)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-theme.php(262): get_file_data('/home1/ourartsc...', Array, 'theme')
+#4 /home1/ourartsc/public_html/wp-includes/theme.php(125): WP_Theme->__construct('flatsome', '/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-content/themes/flatsome/inc/builder/core/ux-builder.php(7): wp_get_theme('flatsome')
+#6 /home1/ourartsc/public_html/wp-content/themes/flatsome/inc/builder/builder.php(3): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/wp-content/themes/flatsome/inc/init.php(193): req
+
+Oct 09, 2019 18.36.07: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:760
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 18.40.09: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 18.45.32: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 18.47.56: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 18.50.46: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 18.50.57: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 18.52.07: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 19.01.16: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 19.06.18: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 09, 2019 19.07.54: Uncaught Error: Call to a member function get_results() on null in /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php:738
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): WC_Form_Handler::add_to_cart_action('')
+#1 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/ourartsc/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home1/ourartsc/public_html/wp-settings.php(546): do_action('wp_loaded')
+#4 /home1/ourartsc/public_html/wp-config.php(83): require_once('/home1/ourartsc...')
+#5 /home1/ourartsc/public_html/wp-load.php(37): require_once('/home1/ourartsc...')
+#6 /home1/ourartsc/public_html/wp-blog-header.php(13): require_once('/home1/ourartsc...')
+#7 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#8 {main}
+  thrown
+
+Oct 17, 2019 20.37.19: Uncaught GuzzleHttp\Exception\ConnectException: cURL error 6: getaddrinfo() thread failed to start
+ (see http://curl.haxx.se/libcurl/c/libcurl-errors.html) in /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:185
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(149): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(102): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /home1/ourartsc/public_html/wp-content/plugins/print-google-cloud-print-gcp-woocommerce/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(43): G
+
+Oct 27, 2019 16.59.24: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(1)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 27, 2019 17.09.31: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(1)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 27, 2019 17.14.36: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('wc_admin_unsnoo...', Array, 1572196474, 3600, 'wc-admin-notes')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurri
+
+Oct 27, 2019 17.39.50: Uncaught RuntimeException: Unable to claim actions. Database error. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:600
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php(509): ActionScheduler_wpPostStore->claim_actions('4c530fc1758d6c8...', 25, NULL, Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_QueueRunner.php(71): ActionScheduler_wpPostStore->stake_claim(25)
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_QueueRunner.php(61): ActionScheduler_QueueRunner->do_batch(25)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ActionScheduler_QueueRunner->run()
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->appl
+
+Oct 27, 2019 17.49.56: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('wc_admin_unsnoo...', Array, 1572198596, 3600, 'wc-admin-notes')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurri
+
+Oct 28, 2019 05.41.35: Uncaught Error: Call to undefined function wp_using_themes() in /home1/ourartsc/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-blog-header.php(19): require_once()
+#1 /home1/ourartsc/public_html/index.php(17): require('/home1/ourartsc...')
+#2 {main}
+  thrown
+
+Oct 28, 2019 12.50.40: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572307200, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157
+
+Oct 28, 2019 15.45.54: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(4)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 28, 2019 16.11.09: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572307200, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157
+
+Oct 28, 2019 17.16.49: Uncaught RuntimeException: Unable to claim actions. Database error. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:600
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php(509): ActionScheduler_wpPostStore->claim_actions('f949a3cf817eb2b...', 25, NULL, Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_QueueRunner.php(71): ActionScheduler_wpPostStore->stake_claim(25)
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_QueueRunner.php(61): ActionScheduler_QueueRunner->do_batch(25)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ActionScheduler_QueueRunner->run()
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->appl
+
+Oct 28, 2019 17.21.51: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572307200, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157
+
+Oct 28, 2019 17.52.09: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572307200, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157
+
+Oct 28, 2019 17.57.13: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(4)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 28, 2019 18.17.26: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(4)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 28, 2019 18.27.32: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(4)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 28, 2019 19.24.19: Allowed memory size of 268435456 bytes exhausted (tried to allocate 10489856 bytes)
+
+Oct 28, 2019 19.40.30: Allowed memory size of 268435456 bytes exhausted (tried to allocate 10489856 bytes)
+
+Oct 28, 2019 20.08.00: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(4)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 28, 2019 23.03.51: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572307200, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157
+
+Oct 29, 2019 11.45.13: Uncaught RuntimeException: Unable to claim actions. Database error. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:600
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php(509): ActionScheduler_wpPostStore->claim_actions('77b56faf779d5c7...', 25, NULL, Array, '')
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_QueueRunner.php(71): ActionScheduler_wpPostStore->stake_claim(25)
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_QueueRunner.php(61): ActionScheduler_QueueRunner->do_batch(25)
+#3 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): ActionScheduler_QueueRunner->run()
+#4 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->appl
+
+Oct 29, 2019 12.10.24: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(4)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 29, 2019 12.15.27: Uncaught Error: Cannot use object of type WP_Error as array in /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php:561
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/functions.php(527): dokan_get_default_store_category_id()
+#1 /home1/ourartsc/public_html/wp-content/plugins/dokan-pro/includes/class-dokan-store-category.php(232): dokan_set_store_categories(4)
+#2 /home1/ourartsc/public_html/wp-includes/class-wp-hook.php(286): Dokan_Store_Category->add_store_categories_in_vendor_shop_data(Array, Object(Dokan_Vendor))
+#3 /home1/ourartsc/public_html/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#4 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(214): apply_filters('dokan_vendor_sh...', Array, Object(Dokan_Vendor))
+#5 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/includes/class-vendor.php(235): Dokan_Vendor->popluate_store_data()
+#6 /home1/ourartsc/public_html/wp-content/plugins/dokan-old/
+
+Oct 29, 2019 12.30.35: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572393600, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157
+
+Oct 29, 2019 12.45.41: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572393600, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157
+
+Oct 29, 2019 14.51.00: Uncaught RuntimeException: Error saving action: Unable to save action. in /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_wpPostStore.php:33
+Stack trace:
+#0 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(109): ActionScheduler_wpPostStore->save_action(Object(ActionScheduler_Action))
+#1 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/classes/ActionScheduler_ActionFactory.php(78): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /home1/ourartsc/public_html/wp-content/plugins/woocommerce-mailchimp/includes/lib/action-scheduler/functions.php(33): ActionScheduler_ActionFactory->recurring('atum/update_exp...', Array, 1572393600, 86400, '')
+#3 /home1/ourartsc/public_html/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(58): as_schedule_recurring_action(157

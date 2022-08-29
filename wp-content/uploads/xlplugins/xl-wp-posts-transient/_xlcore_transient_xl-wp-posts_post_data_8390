@@ -1,0 +1,224 @@
+a:2:{s:4:"time";i:1566690910;s:5:"value";O:7:"WP_Post":24:{s:2:"ID";i:8390;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2019-08-21 17:29:08";s:13:"post_date_gmt";s:19:"2019-08-21 15:29:08";s:12:"post_content";s:4835:"[ux_banner height="500px" bg="8058" bg_overlay="rgba(0, 0, 0, 0.31)" bg_pos="83% 39%"]
+
+[text_box width="52" width__sm="80" animate="bounceIn" parallax="-1" position_x="50" position_x__sm="50" position_y="50" position_y__sm="50"]
+
+<h1 class="uppercase"><b>المتجر</b></h1>
+<p><span style="font-size: 100%;">الموزاييك والزجاج والاحجار الطبيعية وايضا عدد التقطيع</span></p>
+
+[/text_box]
+
+[/ux_banner]
+[gap height="44px"]
+
+[ux_banner height="500px" bg="8069" bg_overlay="rgba(0, 0, 0, 0.1)" bg_pos="87% 54%"]
+
+[text_box style="circle" width="40" width__sm="60" animate="fadeInRight" position_x="0" position_x__sm="50" position_y="50" position_y__sm="50"]
+
+<h2 style="text-align: center;"><span style="font-size: 100%;">الموزاييك</span></h2>
+<p style="text-align: center;"><span style="font-size: 100%;">انواع مختلفة من الموزاييك الخزفي والكريستال والزجاجي وايضا المصدف</span></p>
+
+[/text_box]
+
+[/ux_banner]
+[gap height="44px"]
+
+[ux_banner_grid label="موزاييك"]
+
+[col_grid span="4" height="1-2"]
+
+[ux_image id="8337" link="https://our-arts.com/product-category/الموزاييك/الموزاييك-الزجاجي-20-مم/"]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image id="8339" link="https://our-arts.com/product-category/الموزاييك/الموزاييك-الزجاجي-متعدد-الالوان"]
+
+
+[/col_grid]
+[col_grid span="4" height="1-3"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-3"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-3"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+
+[/ux_banner_grid]
+[ux_banner height="500px" bg="8031" bg_overlay="rgba(0, 0, 0, 0.1)" bg_pos="31% 50%"]
+
+[text_box style="circle" width="40" width__sm="60" animate="fadeInRight" position_x="100" position_x__sm="50" position_y="50" position_y__sm="50"]
+
+<h2 style="text-align: center;"><span style="font-size: 100%;">الاحجار الطبيعية</span></h2>
+<p style="text-align: center;">انواع مختلفة واحجام مختلفة من الاحجار الطبيعية </p>
+
+[/text_box]
+
+[/ux_banner]
+[gap height="44px"]
+
+[ux_banner_grid label="احجار"]
+
+[col_grid height="2-3"]
+
+[ux_image id="8068"]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image id="8359" link="https://our-arts.com/product-category/الاحجار/بلاط-الرخام-الموزاييك-هبط-15مم/"]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+
+[/ux_banner_grid]
+[ux_banner height="500px" bg="8067" bg_overlay="rgba(0, 0, 0, 0.1)" bg_pos="87% 54%"]
+
+[text_box style="circle" width="40" width__sm="60" animate="fadeInRight" position_x="0" position_x__sm="50" position_y="50" position_y__sm="50"]
+
+<h2 style="text-align: center;"><span style="font-size: 100%;">الزجاج المعشق</span></h2>
+<p style="text-align: center;">افضل تشكيلة من الزجاج الملون و قطع الزجاج بالوان مختلفة</p>
+
+[/text_box]
+
+[/ux_banner]
+[gap height="44px"]
+
+[ux_banner_grid label="زجاج"]
+
+[col_grid span="4" height="1-2"]
+
+[ux_image id="8354" link="https://our-arts.com/product-category/الزجاج/الجواهر-الزجاجية-متوسطة/"]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image id="8357" link="https://our-arts.com/product-category/الزجاج/زجاج-ملون-6-بوصة/"]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+[col_grid span="4" height="1-2"]
+
+[ux_image]
+
+
+[/col_grid]
+
+[/ux_banner_grid]
+[ux_banner height="500px" bg="8033" bg_overlay="rgba(0, 0, 0, 0.1)" bg_pos="30% 50%"]
+
+[text_box style="circle" width="40" width__sm="60" animate="fadeInRight" position_x="100" position_x__sm="50" position_y="50" position_y__sm="50"]
+
+<h2 style="text-align: center;"><span style="font-size: 100%;">الادوات</span></h2>
+<p style="text-align: center;">القصافة والماظة وكذلك العدد المساعدة</p>
+
+[/text_box]
+
+[/ux_banner]
+[gap height="44px"]
+
+[ux_banner_grid]
+
+[col_grid span="6" height="1-2"]
+
+
+[/col_grid]
+[col_grid span="6" height="1-2"]
+
+
+[/col_grid]
+[col_grid span="6" height="1-2"]
+
+
+[/col_grid]
+[col_grid span="6" height="1-2"]
+
+
+[/col_grid]
+
+[/ux_banner_grid]";s:10:"post_title";s:10:"Auto Draft";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"inherit";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:16:"8336-revision-v1";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-08-21 17:29:08";s:17:"post_modified_gmt";s:19:"2019-08-21 15:29:08";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:8336;s:4:"guid";s:38:"https://our-arts.com/8336-revision-v1/";s:10:"menu_order";i:0;s:9:"post_type";s:8:"revision";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

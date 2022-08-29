@@ -1,0 +1,8 @@
+a:2:{s:4:"time";i:1569260550;s:5:"value";O:7:"WP_Post":24:{s:2:"ID";i:9449;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2019-09-08 11:56:58";s:13:"post_date_gmt";s:19:"2019-09-08 09:56:58";s:12:"post_content";s:338:"{
+    "woocommerce_checkout_terms_and_conditions_checkbox_text": {
+        "value": "\u0644\u0642\u062f \u0642\u0631\u0623\u062a \u0648\u0648\u0627\u0641\u0642\u062a \u0639\u0644\u0649 \u0627\u0644\u0645\u0648\u0642\u0639 [terms]",
+        "type": "option",
+        "user_id": 1,
+        "date_modified_gmt": "2019-09-08 09:56:58"
+    }
+}";s:10:"post_title";s:0:"";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:5:"trash";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:36:"820d7b9a-b802-4b73-a11d-a0f9e4365bd8";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-09-08 11:56:58";s:17:"post_modified_gmt";s:19:"2019-09-08 09:56:58";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:58:"https://our-arts.com/820d7b9a-b802-4b73-a11d-a0f9e4365bd8/";s:10:"menu_order";i:0;s:9:"post_type";s:19:"customize_changeset";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

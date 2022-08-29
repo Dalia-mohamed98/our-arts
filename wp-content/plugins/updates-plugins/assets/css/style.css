@@ -1,0 +1,30 @@
+/* Optional */
+#checkout_cart input#coupon_code {
+    width:auto;
+}
+  
+/* Style to overcome jQuery dialog's inline styling on the coupon dialog (Optional) */
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.coupon-special {
+    position: relative;
+    top: 0 !important;
+    left: 0 !important;
+    border: 0;
+    width: auto !important;
+}
+.ui-widget-overlay {
+	display:none;
+}
+/* Remove the close coupon field button (Optional) */
+.ui-widget-header {
+    display:none;
+}
+
+#show-coupon-form {
+    font-weight: bold;
+}
+
+.checkout_coupon {
+    display:block !important;
+	margin-bottom:0px;
+	padding:0px !important; 
+}

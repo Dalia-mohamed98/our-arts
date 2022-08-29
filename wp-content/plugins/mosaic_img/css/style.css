@@ -1,0 +1,208 @@
+.row {
+    margin: 0 auto;
+}
+
+
+.rightUpload {
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 0px;
+}
+
+.uploadOuter {
+  text-align: center;
+  padding: 15px;
+  padding-top: 0;
+  
+}
+.uploadOuter strong {
+    padding: 0 10px
+  }
+
+
+.uploadOuter .btn, .uploadOuter .btn:hover {
+    background-color: black;
+    color :white;
+    cursor: pointer;
+}
+
+.process {
+    /* width: 600px;
+    margin:10px auto; */
+}
+input[type="submit"].processbtn , input[type="submit"].processbtn:hover {
+    border-radius:.25rem;;
+    color: white;
+    background-color: black;
+    width: 700px;
+    cursor: pointer;
+    font-weight:normal;
+    font-size:1rem;
+}
+.dragBox {
+  min-width: 96%;
+  height: 150px;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  line-height: 145px;
+  color: #999;
+  border: 2px dashed #ccc;
+  display: inline-block;
+  transition: transform 0.3s;
+  
+}
+
+.dragBox input[type="file"] {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    top: 0;
+    left: 0;
+  }
+  
+.draging {
+  transform: scale(1.1);
+}
+
+#preview {
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+#preview img {
+    /*max-width: 100%;*/
+    width: 10%
+  }
+  
+.shop_table .product-price {
+      display: table-cell;
+  }
+
+.nav-pills .nav-link.active, .show>.nav-pills .nav-link{
+  background-color: #28a745;
+  padding: 8px 18px;
+  border-radius: 10px;
+}
+
+.nav-pills .nav-link{
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+/* .prodcuts-checkbox input[type=checkbox] {
+  display: none;
+} */
+
+
+ /* Create a custom checkbox */
+.checkmark {
+  position: relative;
+  /*top: -6px;*/
+  vertical-align: middle;
+  display: inline-block;
+  height: 25px;
+  padding: 5px 10px;
+  background: #000000;
+  color: white;
+  cursor: pointer;
+}
+
+.purchase-block.fixed{
+  position: fixed;
+  bottom: 0;
+  background: white;
+  left: 0;
+  width: 100%;
+  padding: 5px 0;
+  z-index:2;
+}
+
+/* On mouse-over, add a grey background color */
+.prodcuts-checkbox :hover input ~ .checkmark {
+  background-color: #6f9b4c;
+}
+
+.prodcuts-checkbox :hover input:checked ~ .checkmark {
+  background-color: #c21b1b;
+}
+
+/* When the checkbox is checked, add a blue background */
+.prodcuts-checkbox input:checked ~ .checkmark {
+  background-color: #e23b3b;
+}
+
+/* Show the checkmark when checked */
+.prodcuts-checkbox input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.prodcuts-checkbox .checkmark:after {
+  position:relative;
+  
+  left: -8px;
+  
+  top: 5px;
+  width: 7px;
+  height: 14px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+tr.checked-block{
+  background: #FFE6BF;
+}
+
+.prodcuts-checkbox tr{
+  border-bottom: 1px solid #ddd;
+}
+.prodcuts-checkbox tr:last-child{
+  border-bottom: 0;
+}
+
+.woocommerce-Reviews {
+  display: none;
+}
+
+a.catg {
+  padding: 3px 9px;
+  min-width: 70px;
+  margin: 5px 0;
+  background-color: lightgray;
+}
+
+.nav-cat {
+  /* padding: 10px 16px; */
+  overflow: hidden;
+  background: #ebebeb;
+  color: #f1f1f1;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+
+.sticky-desktop {
+  top: 0px;
+  position: fixed;
+  z-index: 3;
+  /* padding:0px; */
+  /* right: 0px; */
+  /* width: 22%; */
+}

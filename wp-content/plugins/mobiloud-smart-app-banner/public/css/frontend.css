@@ -1,0 +1,139 @@
+.smartbanner {
+    display: none;
+    z-index: 999999;
+    position: relative;
+}
+
+.smartbanner.smartbanner--android {
+    background: #fff;
+    box-shadow: 0 1px 6px #333;
+    height: 140px;
+    position: relative;
+}
+
+.smartbanner.smartbanner--android .smartbanner__close {
+    position: absolute;
+    bottom: 30px;
+    right: 130px;
+    text-decoration: none;
+    color: #888;
+    font-size: 14px;
+}
+
+.smartbanner.smartbanner--android .smartbanner__info__author {
+    color: #888;
+    text-shadow: none;
+}
+
+.smartbanner.smartbanner--android .smartbanner__exit::before, .smartbanner.smartbanner--android .smartbanner__exit::after {
+    top: 0;
+    right: 0;
+    left: auto;
+    width: 2px;
+    height: 15px;
+    background: #b1b1b3;
+}
+
+.smartbanner.smartbanner--android .smartbanner__exit:active, .smartbanner.smartbanner--android .smartbanner__exit:hover {
+    color: #eee;
+}
+
+.smartbanner .smartbanner__icon {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.smartbanner.smartbanner--android .smartbanner__icon {
+    background-color: transparent;
+    box-shadow: none;
+    border-radius: 0;
+    left: 20px;
+    top: 20px;
+}
+
+.smartbanner.smartbanner--android .smartbanner__info {
+    text-shadow: 0 1px 2px #000;
+    position: absolute;
+    top: 20px;
+    left: 104px;
+    display: block;
+    overflow-y: hidden;
+    width: 60%;
+    height: 64px;
+    color: #000;
+}
+
+.smartbanner.smartbanner--android .smartbanner__info__title {
+    color: #4A4A4A;
+    font-weight: bold;
+    text-shadow: none;
+}
+
+.smartbanner.smartbanner--ios .smartbanner__info__star {
+    width: 50px;
+    background-position: 0 9.5px;
+    line-height: 9.5px;
+    z-index: 1;
+    margin-top: 3px;
+}
+
+.smartbanner.smartbanner--ios .smartbanner__info__star span {
+    background-image: url('../images/star.svg');
+    background-size: 10px 19px;
+    display: inline-block;
+    height: 9.5px;
+    width: 50px;
+}
+
+.smartbanner.smartbanner--android.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.smartbanner.smartbanner--android.sticky + .content {
+    padding-top: 140px;
+}
+
+.smartbanner.smartbanner--android .smartbanner__button {
+    bottom: 20px;
+    top: auto;
+    right: 20px;
+    padding: 0;
+    min-width: 12%;
+    background: none;
+    box-shadow: none;
+    color: #d1d1d1;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.smartbanner.smartbanner--android .smartbanner__button:active, .smartbanner.smartbanner--android .smartbanner__button:hover {
+    background: none;
+}
+
+.smartbanner.smartbanner--android .smartbanner__button__label {
+    display: block;
+    padding: 5px 20px;
+    background: #099E58;
+    box-shadow: none;
+    line-height: 24px;
+    text-align: center;
+    text-shadow: none;
+    color: #fff;
+    text-transform: none;
+    font-weight: normal;
+    border-radius: 2px;
+}
+
+.smartbanner__android_logo {
+    max-width: 100px;
+    position: absolute;
+    bottom: 25px;
+    left: 20px;
+}
+
+.smartbanner.smartbanner--android .smartbanner__button__label:active, .smartbanner.smartbanner--android .smartbanner__button__label:hover {
+    background: #099E58;
+}

@@ -1,0 +1,97 @@
+a:2:{s:4:"time";i:1570729427;s:5:"value";O:7:"WP_Post":24:{s:2:"ID";i:10731;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2019-09-24 21:42:24";s:13:"post_date_gmt";s:19:"2019-09-24 19:42:24";s:12:"post_content";s:4225:"<div class="status-detail">
+            <div class="status-detail-top">               
+                  <div class="status-badge">
+                       <img src="//r2sl.logixerp.com/layouts/static/image/truck.png" height="68" width="68" class="" alt="">   
+                  </div>
+                  <div class="status-info">
+                       <div class="status-info-title">
+                         <h3 class="docket-numebr-detail">R611783</h3>
+                         <h4 class="docket-status-detail">ATORIGIN
+                       </h4>
+                       <div class="status-info-text">
+                       </div>
+                     </div>
+                  </div>               
+            </div>
+
+            <div class="status-detail-bottom"> 
+                 <div class="status-detail-bottom-inner">
+                     <div class="consignor-status-info status-info-cmn">
+                        <p><span>Consignor:</span> 
+                        Our Arts LLC</p>   
+                      </div>
+                 
+                      <div class="consignee-status-info status-info-cmn">
+                        <p><span>Consignee:</span>
+                        00000</p>     
+                      </div>
+                 
+                      <div class="from-status-info status-info-cmn">
+                        <p><span>From Location:</span>
+                         Giza</p>    
+                      </div>      
+                 
+                      <div class="to-status-info status-info-cmn">
+                         <p><span>To Location:</span>
+                         Luran</p>      
+                      </div>
+                 
+                      <div class="package-status-info status-info-cmn">
+                        <p><span>Package:</span>
+                         1</p>   
+                      </div>
+                  
+                      <div class="weight-status-info status-info-cmn">
+                        <p><span>Weight:</span> 
+                        2.65 Kilogram</p> 
+                      </div>  
+               </div>                        
+            </div>    
+      </div>
+
+<div class="time-status-inner">
+            <div class="time-line-border"> </div>
+             <div class="time-info">
+               <ul>
+                <li class="date-info">24-09-2019</li>
+                <li class="date-related-event event-active ">
+                    <div class="event-time"><em>08:47:14 PM</em></div>
+                    <div class="event-dot"></div>
+                    <div class="event-unit">
+                         <div class="event-pointer"></div> 
+                         <div class="event-location">In-Scan 
+                          </div>
+                         <div class="event-description event-remarks">Dokki Hub -  </div>
+                    </div>
+                </li>
+              </ul>
+            </div>
+             <div class="time-info">
+               <ul>
+                <li class="date-related-event">
+                    <div class="event-time"><em>01:02:41 PM</em></div>
+                    <div class="event-dot"></div>
+                    <div class="event-unit">
+                         <div class="event-pointer"></div> 
+                         <div class="event-location">Pickup Request Received
+                         </div>
+                         <div class="event-description event-remarks"> </div>
+                    </div>
+                </li>
+              </ul>
+            </div>
+             <div class="time-info">
+               <ul>
+                <li class="date-related-event">
+                    <div class="event-time"><em>12:59:57 PM</em></div>
+                    <div class="event-dot"></div>
+                    <div class="event-unit">
+                         <div class="event-pointer"></div> 
+                         <div class="event-location">Data Received
+                         </div>
+                         <div class="event-description event-remarks"> </div>
+                    </div>
+                </li>
+              </ul>
+            </div>
+       </div>";s:10:"post_title";s:19:"تتبع الطلب";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:5:"trash";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:65:"1%d8%aa%d8%aa%d8%a8%d8%b9-%d8%a7%d9%84%d8%b7%d9%84%d8%a8__trashed";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-09-24 21:43:17";s:17:"post_modified_gmt";s:19:"2019-09-24 19:43:17";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:35:"https://our-arts.com/?page_id=10731";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

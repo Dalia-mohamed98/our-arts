@@ -1,0 +1,7 @@
+
+# BEGIN INDEX
+# التعليمات (الأسطر) بين `BEGIN INDEX` and `END INDEX`
+# تم إنشاؤها ديناميكيًا، ويجب تعديلها فقط من خلال مرشحات ووردبريس (WordPress Filters).
+# أي تغييرات على التعليمات بين هذه العلامات سيتم الكتابة فوقها.
+Options -Indexes
+# END INDEX

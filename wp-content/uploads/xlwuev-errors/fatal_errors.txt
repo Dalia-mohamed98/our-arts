@@ -7431,3 +7431,11 @@ Jul 13, 2021 09.12.34: 1626160354 : Allowed memory size of 268435456 bytes exhau
 Jul 14, 2021 11.23.18: 1626254598 : Allowed memory size of 268435456 bytes exhausted (tried to allocate 4096 bytes)
 
 Jul 14, 2021 15.42.00: 1626270120 : Allowed memory size of 268435456 bytes exhausted (tried to allocate 4096 bytes)
+
+Aug 29, 2022 20.09.16: 1661796556 : Uncaught Error: Wrong parameters for SkyVerge\WooCommerce\PluginFramework\v5_10_0\SV_WC_API_Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in D:\Xampp1\htdocs\ourarts\wp-content\plugins\facebook-for-woocommerce\includes\fbgraph.php:96
+Stack trace:
+#0 D:\Xampp1\htdocs\ourarts\wp-content\plugins\facebook-for-woocommerce\includes\fbgraph.php(96): Exception->__construct('cURL error 28: ...', 'http_request_fa...')
+#1 D:\Xampp1\htdocs\ourarts\wp-content\plugins\facebook-for-woocommerce\includes\fbgraph.php(360): WC_Facebookcommerce_Graph_API->perform_request('https://graph.f...')
+#2 D:\Xampp1\htdocs\ourarts\wp-content\plugins\facebook-for-woocommerce\facebook-commerce.php(2443): WC_Facebookcommerce_Graph_API->is_product_catalog_valid('172068460139853...')
+#3 D:\Xampp1\htdocs\ourarts\wp-content\plugins\facebook-for-woocommerce\facebook-commerce.php(3831): WC_Facebookcommerce_Integration->sync_facebook_products_using_feed()
+#4 D:\Xampp1\htdocs\ourarts\wp-includes\class-wp-hook.php(292): WC
